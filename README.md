@@ -1,1 +1,1 @@
-# netflix_sql_project
+# Unlocking NETFLIX Trends : A SQL-powered Data study
